@@ -1,0 +1,9 @@
+.navbar-brand:hover {
+    transform: scale(1.15);
+    transition: transform 0.5s;
+  }
+
+.nav-item:hover{
+    transform: scale(1.15);
+    transition: transform 0.5s;
+}

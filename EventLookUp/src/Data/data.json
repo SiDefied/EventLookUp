@@ -1,0 +1,181 @@
+{
+  "featured": [
+    {
+      "id": "1",
+      "name": "EDM fest Sunburn 2022",
+      "imgSrc":  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShPy0VRSITKmENNQh34HoZVVYT7NfSdlSz_iw1qswZpCNTq6zXyIZSPbvVVQ&s=10",
+      "place": "Goa, India",
+      "time": "Wed, 28 - Fri, 30 Dec"
+    },
+    {
+      "id": "2",
+      "name": "AKCENT Live! in Mumbai",
+      "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv_Jf9IUyp02weLnjUHl-KGm_1W-pkUNNS44zIxP0ilw&s=10",
+      "place": "EPITOME - Global Dining & Bar, Lower Parel,Mumbai, Maharashtra",
+      "time": "Fri, 2 - Sat, 3 Sept"
+    },
+    {
+      "id": "3",
+      "name": "Comedy House: Kharghar",
+      "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlRsqPIaBD9FxsqYbEVKcCsZ1UHpk-bmTATN5iyldeow&s=10",
+      "place": "OneNest, Kharghar, Navi Mumbai, Maharashtra",
+      "time": "28 Aug - 25 Sept"
+    },
+    {
+      "id": "4",
+      "name": "Learn to Connect with Anyone",
+      "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDGjVqcimStKhbiemGJ6TDD-eDibStY6qornydFC3VbHDaSiMlilV257nJzQ&s=10",
+      "place": "Mumbai, Maharashtra",
+      "time": " 21 Aug - 31 Aug"
+    },
+    {
+      "id": "5",
+      "name": "Mumbai Piano Day",
+      "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO0L6M2il3gB83-3tgBx95dZ2cv6nMMgwZ1lCWW3eLWw&s=10",
+      "place": "Tata Theatre, Nariman Point,Mumbai, Maharashtra",
+      "time": "Mon 12 Sept - Tue 13 Sept "
+    },
+    {
+      "id": "6",
+      "name": "TCC Bandra: Sonali Thakker Live ",
+      "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgSjoiqboWal6V20NNDR38_1K3r4vPteYfjyNCmgiqmQ&s=10",
+      "place": "That Comedy Club, Bandra West, Mumbai, Maharashtra",
+      "time": "Sun 4 Sept 1:30 AM"
+    },
+    {
+      "id": "7",
+      "name": "Sumit Sourav Live - A Stand Up Comedy Show",
+      "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjY0if76RTfWJ9oKC9cTFc66t45AC4DHrANE75Ir-zSQ&s=10",
+      "place": "The J Spot, Bandra West, Mumbai, Maharashtra",
+      "time": "Mon 5 Spet 3:30 AM "
+    },
+    {
+      "id": "8",
+      "name": "Filmfare",
+      "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZXkporOHP2hXphRCqzeDSNppmthLhpRzMbIryWszrFw&s",
+      "place": "Jio World Convention Centre, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra",
+      "time": "Tue 31 Aug 11:00pm"
+    },
+    {
+      "id": "9",
+      "name": "Trial Show By Devesh Dixit",
+      "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkuCK4dABIiSezj2Yr9FeHDQZTpINQdTdDxhd8As5Hmg&s",
+      "place": "The J Spot, Bandra West, Mumbai, Maharashtra",
+      "time": "1 Sept 3:30 AM"
+    }
+  ],
+  "all": [
+    {
+      "id": "1",
+      "name": "EDM fest Sunburn 2022",
+      "imgSrc":  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShPy0VRSITKmENNQh34HoZVVYT7NfSdlSz_iw1qswZpCNTq6zXyIZSPbvVVQ&s=10",
+      "place": "Goa, India",
+      "time": "Wed, 28 - Fri, 30 Dec"
+    },
+    {
+      "id": "2",
+      "name": "AKCENT Live! in Mumbai",
+      "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv_Jf9IUyp02weLnjUHl-KGm_1W-pkUNNS44zIxP0ilw&s=10",
+      "place": "EPITOME - Global Dining & Bar, Lower Parel,Mumbai, Maharashtra",
+      "time": "Fri, 2 - Sat, 3 Sept"
+    },
+    {
+      "id": "3",
+      "name": "Comedy House: Kharghar",
+      "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlRsqPIaBD9FxsqYbEVKcCsZ1UHpk-bmTATN5iyldeow&s=10",
+      "place": "OneNest, Kharghar, Navi Mumbai, Maharashtra",
+      "time": "28 Aug - 25 Sept"
+    },
+    {
+      "id": "4",
+      "name": "Learn to Connect with Anyone",
+      "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDGjVqcimStKhbiemGJ6TDD-eDibStY6qornydFC3VbHDaSiMlilV257nJzQ&s=10",
+      "place": "Mumbai, Maharashtra",
+      "time": " 21 Aug - 31 Aug"
+    },
+    {
+      "id": "5",
+      "name": "Mumbai Piano Day",
+      "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO0L6M2il3gB83-3tgBx95dZ2cv6nMMgwZ1lCWW3eLWw&s=10",
+      "place": "Tata Theatre, Nariman Point,Mumbai, Maharashtra",
+      "time": "Mon 12 Sept - Tue 13 Sept "
+    },
+    {
+      "id": "6",
+      "name": "TCC Bandra: Sonali Thakker Live ",
+      "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgSjoiqboWal6V20NNDR38_1K3r4vPteYfjyNCmgiqmQ&s=10",
+      "place": "That Comedy Club, Bandra West, Mumbai, Maharashtra",
+      "time": "Sun 4 Sept 1:30 AM"
+    },
+    {
+      "id": "7",
+      "name": "Sumit Sourav Live - A Stand Up Comedy Show",
+      "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjY0if76RTfWJ9oKC9cTFc66t45AC4DHrANE75Ir-zSQ&s=10",
+      "place": "The J Spot, Bandra West, Mumbai, Maharashtra",
+      "time": "Mon 5 Spet 3:30 AM "
+    },
+    {
+      "id": "8",
+      "name": "Filmfare",
+      "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZXkporOHP2hXphRCqzeDSNppmthLhpRzMbIryWszrFw&s",
+      "place": "Jio World Convention Centre, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra",
+      "time": "Tue 31 Aug 11:00pm"
+    },
+    {
+      "id": "9",
+      "name": "Trial Show By Devesh Dixit",
+      "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkuCK4dABIiSezj2Yr9FeHDQZTpINQdTdDxhd8As5Hmg&s",
+      "place": "The J Spot, Bandra West, Mumbai, Maharashtra",
+      "time": "1 Sept 3:30 AM"
+    },
+    {
+      "id": "13",
+      "name": "Rolling Loud New York",
+      "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPwZ42Z9IhTgWprNdqmCrOCGfAiMCj_6p09A4BRMOKzQ&s",
+      "place": "Citi Field, 41 Seaver Wy, Queens, NY, United States",
+      "time": " Fri 23 - Sun, 25 Sept"
+    },
+    {
+      "id": "14",
+      "name": "Love, Linda: The Return Season",
+      "imgSrc": "https://cdn.eventfinda.co.nz/uploads/events/transformed/1609781-701551-34.jpg?v=2",
+      "place": "Gryphon Theatre, Wellington",
+      "time": "Tomorrow 8:00pm "
+    },
+    {
+      "id": "15",
+      "name": "India Gem & Jewellery Show ",
+      "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmYn7bVRFn6EvxQQQnNyyL7jtYtWzK42tgolfAEF-s-eShSknUjS118WUKAg&s=10",
+      "place": "Nesco Pvt Ltd, Goregaon, Mumbai, Maharashtra",
+      "time": "Thu, 22 Sept, 7:00 am - Sun, 25 Sept, 3:30 pm"
+    },
+    {
+      "id": "16",
+      "name": "Global Fintech Fest 2022",
+      "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJiut8mO9El6nOebRL4djzh90bZ-TDkkS6p-LDeYPFzCSaq04zqdC0eMDkWw&s=10",
+      "place": "Jio World Centre, G Block, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra",
+      "time": "Mon, 19 Sept, 1:30 pm - Thu, 22 Sept, 10:30 pm"
+    },
+    {
+      "id": "17",
+      "name": "Music Concert 2022 - Asim Azhar",
+      "imgSrc":  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnDM8MAEzxWYtEZ8tIFjxZarjSpHjWfy1SvJGgI3yv2g&s=10",
+      "place": "Camalane, Ghatkopar West, Mumbai, Maharashtra",
+      "time": "31 Aug 2022 1:30pm"
+    },
+    {
+      "name": "Bangalore Open Air 2022",
+      "imgSrc": "https://static.wixstatic.com/media/a2ae9d_0b02a7b5125f4f879a568eb308d62f35~mv2.png/v1/fill/w_551,h_174,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Monster_Visual_Front_CMYK_Curved%20file_pn.png",
+      "place": "Bengaluru Yelahanka, No 45/2,Honnenahalli, Doddaballapur Rd, Yelahanka,Bangalore, India ",
+      "date": "Sat Dec 3 2022 at 12:30 am to 08:30 am",
+      "id": 0.019660970011818435
+    },
+    {
+      "name": "Russ India Tour | Mumbai",
+      "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTTj00n-QMfy-U7jgxvoR_GEn9SOttTvq68zDcHrlTsg&s",
+      "place": "Mumbai, Maharashtra",
+      "date": "Fri, 5–10 pm, 28 OCT ",
+      "id": 0.39610138520736293
+    }
+  ]
+}
